@@ -18,7 +18,6 @@ h1{
 }
 .half-width img{
 width: 100%;
-margin-top: 2%;
 }
 .top-banner{
     background-image: url("Resource/top-banner.png");
@@ -26,7 +25,7 @@ margin-top: 2%;
 }
 section{
     height: 500px;
-    margin: top;
+    padding-bottom:150px ;
 }
 .link-button{
     text-decoration: none;
@@ -35,4 +34,31 @@ section{
     border-radius: 10%;
     color: white;
     font-weight:700 ;
+}
+.dream-area{
+    background-image: url(Resource/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience{
+    background-image: url(Resource/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left 20%;
+}
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    height: 300px;
+    border-radius: 10px;
+}
+#ruet{
+    border-left: 7px solid;
+    border-color: lightsalmon;
+}
+#Bdapps{
+    border-left: 7px solid;
+    border-color: blueviolet;
+}
+footer p{
+    text-align:center;
+    font-size: small;
 }
