@@ -39,6 +39,7 @@ section{
     background-image: url(Resource/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    display: inline-block;
 }
 .experience{
     background-image: url(Resource/exp-bg.png);
