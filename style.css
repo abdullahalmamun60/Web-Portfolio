@@ -17,6 +17,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
+    margin-top: 20px;
 width: 100%;
 }
 .top-banner{
@@ -62,4 +63,8 @@ section{
 footer p{
     text-align:center;
     font-size: small;
+}
+.exp{
+    text-align: left;
+    margin-left: 5%;
 }
